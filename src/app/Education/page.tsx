@@ -20,7 +20,7 @@ const page = () => {
             </div>
             <div className="flex-grow">
               <h2 className="font-medium title-font text-gray-900 text-xl mb-2">Master Of Computer Application</h2>
-              <p className="leading-relaxed text-sm sm:text-base">Gayathri Vidhya Parishad PG and Degree College in Visakhapatnam offers a comprehensive Master of Computer Applications (MCA) program, designed to equip students with advanced skills in computer science and software development. The college provides a robust academic environment to foster innovation and career growth in the IT industry.</p>
+              <p className="leading-relaxed text-sm sm:text-base">Gayatri- Vidhya Parishad PG and Degree College in Visakhapatnam offers a comprehensive Master of Computer Applications (MCA) program, designed to equip students with advanced skills in computer science and software development. The college provides a robust academic environment to foster innovation and career growth in the IT industry.</p>
             </div>
           </div>
         </div>
